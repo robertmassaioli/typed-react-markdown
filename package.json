@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/GregRos/typed-react-markdown#readme",
   "dependencies": {
-    "@types/react": "^0.14.44"
+    "@types/react": ">=0.14.44"
   },
   "devDependencies": {
     "@types/jest": "^15.1.32",
